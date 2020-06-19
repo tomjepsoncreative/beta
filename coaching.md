@@ -1,5 +1,5 @@
 ---
-layout: core.njk
+layout: page.njk
 tags: page
 ---
 # Creative Coaching for UX Designers (and the people who work with them)
