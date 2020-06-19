@@ -69,8 +69,8 @@ Cost: £0
 ### One-off coaching sessions
 You can book a one-off coaching session with me. We'll spend an hour together on Zoom talking about the things that matter to you and find best track for you to take action, now.
 
-Call duration: 60mins + follow-up notes and action steps
-Cost: £70
+Call duration: 70mins + follow-up notes
+Cost: £75
 
 ### Coaching plan
 If you want to 'go deep' right away, we can build you an action plan to make the next steps in your career.
