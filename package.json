@@ -1,0 +1,23 @@
+{
+  "name": "beta",
+  "version": "1.0.0",
+  "description": "Beta pages for tomjepsoncreative.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tomjepsoncreative/beta.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tomjepsoncreative/beta/issues"
+  },
+  "homepage": "https://github.com/tomjepsoncreative/beta#readme",
+  "devDependencies": {
+    "@11ty/eleventy": "^0.11.0"
+  }
+}
