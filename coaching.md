@@ -1,4 +1,5 @@
 ---
+layout: core.njk
 tags: page
 ---
 # Creative Coaching for UX Designers (and the people who work with them)
@@ -25,9 +26,7 @@ A valuable coaching session is about listening and understanding; making the mos
 
 ## Why coach with me?
 
-As a late-starting, self-taught designer who has 'come up' through the industry, I know what it is like to feel out of your depth or slightly adrift. I want to help you.
-
-Using the experience I've gained over the last decade or more, I want to offer practical guidance on making a great start in your career, and positioning yourself to make the most of what you have right now. If I can help you avoid making some of the many daft mistakes I've made over the years I'll do that, too!
+As a late-starting, self-taught designer who has 'come up' through the industry, I know what it is like to feel out of your depth or slightly adrift. I want to help you. Using the experience I've gained over the last decade or more, I want to offer practical guidance on making a great start in your career, and positioning yourself to make the most of what you have right now. If I can help you avoid making some of the many daft mistakes I've made over the years I'll do that, too!
 
 In my career I have lead and worked with designers, developers, product owners, marketers and more in a range of different industries; from startups like Biotaware and Buying Butler to corporate enterprises like Esendex and Experian. The experience I've gained working with this breadth of individuals has informed and shaped how I approach my UX consultancy today.
 
