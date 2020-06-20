@@ -47,9 +47,11 @@ While I can't tell you what your challenges are, I can help you find them. Be re
 ## Testimonials
 
 "I had a session with Tom on approaching my career in UX and product design. He really understands the subject; his questions were direct and made me think! I'm very grateful for his input and advice. I'd definitely recommend Tom!"
+
 *Nabil Kazi (@nQaze on Twitter)*
 
 "Conversations with Tom have helped me to improve how I present myself as a UX Designer, online and offline. I appreciate his guidance and kind advice."
+
 *Ariel Acosta (@ByArielAcosta)*
 
 ## Focus areas
@@ -71,12 +73,14 @@ While I can't tell you what your challenges are, I can help you find them. Be re
 You can book a one-off coaching session with me. We'll spend an hour together on Zoom talking about the things that matter to you and find best track for you to take action, now.
 
 **One-off session run for 70mins and include follow-up notes**
+
 **Cost: £75**
 
 ### Coaching plan
 If you want to 'go deep' right away, we can build you an action plan to make the next steps in your career. With an agenda set to suit you, we'll schedule calls - no more than once per week - and lean into the nitty-gritty of the challenges you're facing.
 
 **A four-week coaching plan has four (4) one-hour calls over Zoom and includes follow-up material, action steps, and between-call messaging to our coaching Telegram group**
+
 **Cost: £350**
 
 If you aren’t sure if coaching is for you or you’d like to find out a little more before committing, book a free consultation call with me. We’ll have a quick chat and gear you up for taking the next step!
