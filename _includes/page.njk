@@ -9,15 +9,25 @@
 
 <style>
 
+div, section, a, p {
+    margin: 0;
+    border: 0;
+}
+
 div.banner {
     background-color: black;
     color: white;
     display: flex;
     flex-direction: row;
-    a, p {
+    a {
         flex: 0 1 auto;
+        flex-order: 1;
     }
-}
+    p {
+        flex: 0 1 auto;
+        flex-order: 2;        
+    }    
+}    
 
 section {
     margin: 0 auto;
