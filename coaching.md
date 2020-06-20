@@ -14,11 +14,9 @@ Are you looking for a fresh start as UX professional but don't know where to beg
 
 Since everyone has challenges unique to them, coaching sessions with me are not exclusively for designers.
 
-If you're a UX designer in a junior or mid-level position and are fired up to jump into the next stage of your career, I can definitely help you.
-
-If you work with designers - maybe you're a Product Manager or Development Leader - and want to get more out of those relationships, I can help you, too!
-
-If you're thinking about taking your first role as a designer or maybe shifting your career to focus on UX, I'd love to talk to you.
+- If you're a UX designer in a junior or mid-level position and are fired up to jump into the next stage of your career, I can definitely help you.
+- If you work with designers - maybe you're a Product Manager or Development Leader - and want to get more out of those relationships, I can help you, too!
+- If you're thinking about taking your first role as a designer or maybe shifting your career to focus on UX, I'd love to talk to you.
 
 ## What is coaching?
 
@@ -49,10 +47,10 @@ While I can't tell you what your challenges are, I can help you find them. Be re
 ## Testimonials
 
 "I had a session with Tom on approaching my career in UX and product design. He really understands the subject; his questions were direct and made me think! I'm very grateful for his input and advice. I'd definitely recommend Tom!"
-- Nabil Kazi (@nQaze on Twitter)
+*Nabil Kazi (@nQaze on Twitter)*
 
 "Conversations with Tom have helped me to improve how I present myself as a UX Designer, online and offline. I appreciate his guidance and kind advice."
-- Ariel Acosta (@ByArielAcosta)
+*Ariel Acosta (@ByArielAcosta)*
 
 ## Focus areas
 - Levelling-up your UX and professional skills
@@ -72,15 +70,13 @@ While I can't tell you what your challenges are, I can help you find them. Be re
 ### One-off coaching sessions
 You can book a one-off coaching session with me. We'll spend an hour together on Zoom talking about the things that matter to you and find best track for you to take action, now.
 
-Call duration: 70mins + follow-up notes
-Cost: £75
+**One-off session run for 70mins and include follow-up notes**
+**Cost: £75**
 
 ### Coaching plan
-If you want to 'go deep' right away, we can build you an action plan to make the next steps in your career.
+If you want to 'go deep' right away, we can build you an action plan to make the next steps in your career. With an agenda set to suit you, we'll schedule calls - no more than once per week - and lean into the nitty-gritty of the challenges you're facing.
 
-With an agenda set to suit you, we'll schedule calls - no more than once per week - and lean into the nitty-gritty of the challenges you're facing.
-
-Call duration: 4x 60mins + detailed follow-up material, action steps, and between-call messaging
-Cost: £350
+**A four-week coaching plan has four (4) one-hour calls over Zoom and includes follow-up material, action steps, and between-call messaging to our coaching Telegram group**
+**Cost: £350**
 
 If you aren’t sure if coaching is for you or you’d like to find out a little more before committing, book a free consultation call with me. We’ll have a quick chat and gear you up for taking the next step!
