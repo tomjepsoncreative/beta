@@ -11,6 +11,7 @@ Are you struggling to communicate your work to your team or to stakeholders in a
 Are you looking for a fresh start as UX professional but don't know where to begin? The landscape for a new-starter can feel like an expanse with a great many ways to cross. How do you want to take your first steps?
 
 ## Who is it for?
+
 Since everyone has challenges unique to them, coaching sessions with me are not exclusively for designers.
 
 If you're a UX designer in a junior or mid-level position and are fired up to jump into the next stage of your career, I can definitely help you.
@@ -20,6 +21,7 @@ If you work with designers - maybe you're a Product Manager or Development Leade
 If you're thinking about taking your first role as a designer or maybe shifting your career to focus on UX, I'd love to talk to you.
 
 ## What is coaching?
+
 Coaching is 1:1 time spent with an expert; someone who has been in your shoes and has walked the same lines. It is about the here and now; the challenges you're facing that could block you from getting your next promotion or from landing a new client.
 
 A valuable coaching session is about listening and understanding; making the most of the skills that you have, unlocking your potential, and guiding you to learn how to reach your aspirations and goals.
@@ -32,7 +34,14 @@ In my career I have lead and worked with designers, developers, product owners, 
 
 With every coachee I look to home in on the real challenges they are facing; helping them understand what's going on under the surface. Together we can identify what really matters and find ways for you to reach your goals. Let's travel that road.
 
+## How do we get started?
+
+1. Book a session or session plan with your first call at a time to suit you. You’ll be asked to pay for the session up front.
+2. Complete the pre-session questionnaire; to make sure we use your time most effectively it’s good to learn more about you before we begin.
+3. Attend your 1:1 coaching session on Zoom at the booked time.
+
 ## What are the sessions for?
+
 Coaching calls are used to talk about the challenges you're facing in your work or professional development; maybe you want to level up your UX skills, learn how to engage with your community more effectively, or find better ways to present yourself so your work really 'lands' when you need it to.
 
 While I can't tell you what your challenges are, I can help you find them. Be ready to think about your journey and dig deep; I tend to ask a lot of questions!
@@ -60,12 +69,6 @@ While I can't tell you what your challenges are, I can help you find them. Be re
 
 ## What would you like to do next?
 
-### A brief consultation
-If you aren't sure if coaching is for you or you'd like to find out a little more before committing, book a call with me. We'll have a quick chat and gear you up for taking the next step!
-
-Call duration: 15-30mins
-Cost: £0
-
 ### One-off coaching sessions
 You can book a one-off coaching session with me. We'll spend an hour together on Zoom talking about the things that matter to you and find best track for you to take action, now.
 
@@ -79,3 +82,5 @@ With an agenda set to suit you, we'll schedule calls - no more than once per wee
 
 Call duration: 4x 60mins + detailed follow-up material, action steps, and between-call messaging
 Cost: £350
+
+If you aren’t sure if coaching is for you or you’d like to find out a little more before committing, book a free consultation call with me. We’ll have a quick chat and gear you up for taking the next step!
