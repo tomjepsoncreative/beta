@@ -70,9 +70,9 @@ While I can't tell you what your challenges are, I can help you find them. Be re
 ## What would you like to do next?
 
 ### One-off coaching sessions
-You can book a one-off coaching session with me. We'll spend an hour together on Zoom talking about the things that matter to you and find best track for you to take action, now.
+You can book a one-off coaching session with me. Using your questionnaire responses as a frame, we'll spend our time together talking about the things that matter to you and find best track for you to take action, now.
 
-**One-off session run for 70mins and include follow-up notes**
+**One-off sessions run for 70mins and include follow-up notes**
 
 **Cost: £75**
 
