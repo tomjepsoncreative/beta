@@ -44,16 +44,6 @@ Coaching calls are used to talk about the challenges you're facing in your work 
 
 While I can't tell you what your challenges are, I can help you find them. Be ready to think about your journey and dig deep; I tend to ask a lot of questions!
 
-## Testimonials
-
-"I had a session with Tom on approaching my career in UX and product design. He really understands the subject; his questions were direct and made me think! I'm very grateful for his input and advice. I'd definitely recommend Tom!"
-
-*Nabil Kazi (@nQaze on Twitter)*
-
-"Conversations with Tom have helped me to improve how I present myself as a UX Designer, online and offline. I appreciate his guidance and kind advice."
-
-*Ariel Acosta (@ByArielAcosta)*
-
 ## Focus areas
 - Levelling-up your UX and professional skills
 - Jumping into client work
@@ -66,6 +56,18 @@ While I can't tell you what your challenges are, I can help you find them. Be re
 - Your work and career challenges
 - Managing stakeholders
 - Presenting yourself
+
+## Testimonials
+
+"I had a session with Tom on approaching my career in UX and product design. He really understands the subject; his questions were direct and made me think! I'm very grateful for his input and advice. I'd definitely recommend Tom!"
+
+*Nabil Kazi (@nQaze on Twitter)*
+
+"Conversations with Tom have helped me to improve how I present myself as a UX Designer, online and offline. I appreciate his guidance and kind advice."
+
+*Ariel Acosta (@ByArielAcosta)*
+
+********************
 
 ## What would you like to do next?
 
