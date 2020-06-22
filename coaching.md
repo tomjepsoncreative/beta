@@ -69,12 +69,14 @@ While I can't tell you what your challenges are, I can help you find them. Be re
 
 ## What would you like to do next?
 
-### One-off coaching sessions
+### Single coaching sessions
 You can book a one-off coaching session with me. Using your questionnaire responses as a frame, we'll spend our time together talking about the things that matter to you and find best track for you to take action, now.
 
-**One-off sessions run for 70mins and include follow-up notes**
+**Single sessions run for 70mins and include follow-up notes**
 
 **Cost: £75**
+
+[Book a single coaching session.](https://calendly.com/tomjepsoncreative/coaching-consult)
 
 ### Coaching plan
 If you want to 'go deep' right away, we can build you an action plan to make the next steps in your career. With an agenda set to suit you, we'll schedule calls - no more than once per week - and lean into the nitty-gritty of the challenges you're facing.
@@ -83,4 +85,10 @@ If you want to 'go deep' right away, we can build you an action plan to make the
 
 **Cost: £350**
 
+[Start your coaching plan today.](https://calendly.com/tomjepsoncreative/coaching-consult)
+
+********************
+
 If you aren’t sure if coaching is for you or you’d like to find out a little more before committing, book a free consultation call with me. We’ll have a quick chat and gear you up for taking the next step!
+
+[Book a free consultation.](https://calendly.com/tomjepsoncreative/coaching-consult)
