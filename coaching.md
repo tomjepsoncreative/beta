@@ -28,7 +28,7 @@ A valuable coaching session is about listening and understanding; making the mos
 
 As a late-starting, self-taught designer who has 'come up' through the industry, I know what it is like to feel out of your depth or slightly adrift. I want to help you. Using the experience I've gained over the last decade or more, I want to offer practical guidance on making a great start in your career, and positioning yourself to make the most of what you have right now. If I can help you avoid making some of the many daft mistakes I've made over the years I'll do that, too!
 
-In my career I have lead and worked with designers, developers, product owners, marketers and more in a range of different industries; from startups like Biotaware and Buying Butler to corporate enterprises like Esendex and Experian. The experience I've gained working with this breadth of individuals has informed and shaped how I approach my UX consultancy today.
+In my career I have lead and worked with designers, developers, product owners, marketers and more in a range of different industries; from startups like Biotaware and Buying Butler to corporate enterprises like Esendex and Experian. The experience I've gained working with this breadth of individuals has informed and shaped how I approach <a href="https://tomjepsoncreative.com" target="_blank">my UX consultancy</a> today.
 
 With every coachee I look to home in on the real challenges they are facing; helping them understand what's going on under the surface. Together we can identify what really matters and find ways for you to reach your goals. Let's travel that road.
 
