@@ -76,7 +76,7 @@ You can book a one-off coaching session with me. Using your questionnaire respon
 
 **Cost: £75**
 
-[Book a single coaching session.](https://calendly.com/tomjepsoncreative/coaching-consult)
+[Book a single coaching session.](https://calendly.com/tomjepsoncreative/coaching-121)
 
 ### Coaching plan
 If you want to 'go deep' right away, we can build you an action plan to make the next steps in your career. With an agenda set to suit you, we'll schedule calls - no more than once per week - and lean into the nitty-gritty of the challenges you're facing.
