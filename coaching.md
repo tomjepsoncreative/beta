@@ -71,10 +71,10 @@ While I can't tell you what your challenges are, I can help you find them. Be re
 
 ## What would you like to do next?
 
-### Single coaching sessions
+### 1-on-1 coaching sessions
 You can book a one-off coaching session with me. Using your questionnaire responses as a frame, we'll spend our time together talking about the things that matter to you and find best track for you to take action, now.
 
-**Single sessions run for 70mins and include follow-up notes**
+**Single 1-on-1 sessions run for 70mins and include follow-up notes**
 
 **Cost: £75**
 
