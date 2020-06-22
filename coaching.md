@@ -10,7 +10,7 @@ Are you struggling to communicate your work to your team or to stakeholders in a
 
 Are you looking for a fresh start as UX professional but don't know where to begin? The landscape for a new-starter can feel like an expanse with a great many ways to cross. How do you want to take your first steps?
 
-## Who is it for?
+## Who is coaching for?
 
 Since everyone has challenges unique to them, coaching sessions with me are not exclusively for designers.
 
