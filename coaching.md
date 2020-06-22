@@ -76,19 +76,19 @@ You can book a one-off coaching session with me. Using your questionnaire respon
 
 **Cost: £75**
 
-[Book a single coaching session.](https://calendly.com/tomjepsoncreative/coaching-121)
+[Book a single coaching session](https://calendly.com/tomjepsoncreative/coaching-121)
 
 ### Coaching plan
 If you want to 'go deep' right away, we can build you an action plan to make the next steps in your career. With an agenda set to suit you, we'll schedule calls - no more than once per week - and lean into the nitty-gritty of the challenges you're facing.
 
-**A four-week coaching plan has four (4) one-hour calls over Zoom and includes follow-up material, action steps, and between-call messaging to our coaching Telegram group**
+**A four-week coaching plan has an initial 90-minute call over Zoom and includes three (3) 60-minute calls, follow-up material, action steps, and between-call messaging to our coaching Telegram group**
 
-**Cost: £350**
+**Cost: £400**
 
-[Start your coaching plan today.](https://calendly.com/tomjepsoncreative/coaching-consult)
+[Start your coaching plan today](https://calendly.com/tomjepsoncreative/coaching-plan)
 
 ********************
 
 If you aren’t sure if coaching is for you or you’d like to find out a little more before committing, book a free consultation call with me. We’ll have a quick chat and gear you up for taking the next step!
 
-[Book a free consultation.](https://calendly.com/tomjepsoncreative/coaching-consult)
+[Book a free consultation](https://calendly.com/tomjepsoncreative/coaching-consult)
